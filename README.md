@@ -64,7 +64,7 @@ The pipeline is divided into the following stages:
 ## 🖼️ Output Visualization
 
 <p align="center">
-  <img src="output/sift_lbp_result.png" alt="SIFT and LBP Visualization" width="700">
+  <img src="sift_lbp_result.png" alt="SIFT and LBP Visualization" width="700">
 </p>
 
 - 🔴 Left: Original iris image with SIFT keypoints
